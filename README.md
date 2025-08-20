@@ -126,15 +126,6 @@ bash <(curl -fsSL http://bit.ly/43JqREw)
    ```
 ---
 
-### Credits & Acknowledgments
-
-A special thanks to:
-
-- **[Yusuf Usta](https://github.com/Quiec)** – Creator of [WhatsAsena](https://github.com/yusufusta/WhatsAsena).  
-- **[@adiwajshing](https://github.com/adiwajshing)** – Developer of [Baileys](https://github.com/adiwajshing/Baileys).
-
----
-
 ## 🛠 Need Help?
 
 For more information on setting up environment variables and FAQs, please visit:
