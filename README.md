@@ -133,7 +133,7 @@ bash <(curl -fsSL http://bit.ly/43JqREw)
 ## For more details see my whatsapp channel 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Deku0019523f/Tdeku225-bot/main/what.png" width="150" alt="Logo OSINT">
+  <img src="https://raw.githubusercontent.com/Deku0019523f/deku225-bot/main/media/what.png" width="150" alt="Logo OSINT">
 </p>
 
 *Click :- [DEKU BOT WHATSAPP](https://whatsapp.com/channel/0029VbAUFd96mYPERbwqRI0f)
