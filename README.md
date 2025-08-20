@@ -1,5 +1,9 @@
 # WhatsApp MD User Bot
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Deku0019523f/Traceur-osint/main/logo.png" width="150" alt="Logo OSINT">
+</p>
+
 A powerful and feature-rich WhatsApp bot supporting multiple sessions, designed for seamless automation and enhanced user experience.
 
 ### Features
@@ -125,6 +129,15 @@ bash <(curl -fsSL http://bit.ly/43JqREw)
    pm2 stop botName
    ```
 ---
+
+## For more details see my whatsapp channel 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Deku0019523f/Tdeku225-bot/main/what.png" width="150" alt="Logo OSINT">
+</p>
+
+*Click :- [DEKU BOT WHATSAPP](https://whatsapp.com/channel/0029VbAUFd96mYPERbwqRI0f)
+
 
 ## 🛠 Need Help?
 
